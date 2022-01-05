@@ -6,4 +6,3 @@ jwest
 mriggs
 charly
 clement
-Johnny
