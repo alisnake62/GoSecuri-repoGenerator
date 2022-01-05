@@ -6,4 +6,3 @@ jwest
 mriggs
 sconnor
 sholmes
-clement
