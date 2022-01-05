@@ -4,4 +4,3 @@ jmacclane
 jrouletabille
 jwest
 mriggs
-sconnor
