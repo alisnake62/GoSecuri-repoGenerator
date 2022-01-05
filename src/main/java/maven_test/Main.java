@@ -11,7 +11,7 @@ import java.util.ArrayList;
 public class Main {
 
 	public static void main(String[] args) throws IOException {
-        String url_staff = "https://raw.githubusercontent.com/Bryan82370/MSPR_1_DATA/main/staff.txt";
+        String url_staff = "https://raw.githubusercontent.com/alisnake62/GoSecuri-repoGenerator/master/data_client/staff.txt";
         ArrayList<String> list = HttpGet.HttpGet(url_staff);
         System.out.println(list);
         String new_index_html = read_index_html(list);
