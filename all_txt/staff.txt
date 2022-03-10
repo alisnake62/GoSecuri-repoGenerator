@@ -2,4 +2,3 @@ afoley
 cberthier
 jmacclane
 sconnor
-wsmith
